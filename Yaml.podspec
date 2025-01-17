@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target = "9.0"
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :git => "https://github.com/behrang/YamlSwift.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/haradakashiwa/YamlSwift.git", :tag => s.version }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source_files = "Sources/Yaml/*.swift"
